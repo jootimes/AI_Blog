@@ -1,2 +1,0 @@
-# AI_Blog
-AI 
